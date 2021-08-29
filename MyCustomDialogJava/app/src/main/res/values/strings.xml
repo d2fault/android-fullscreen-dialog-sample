@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCustomDialogJava</string>
+
+    <!-- Fullscreen custom dialog -->
+    <string name="default_dialog_title">다이얼로그 타이틀</string>
+    <string name="default_dialog_message">다이얼로그 메시지</string>
+    <string name="default_dialog_submit_caption">확인</string>
+    <string name="default_dialog_cancel_caption">취소</string>
+</resources>
